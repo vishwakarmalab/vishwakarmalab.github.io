@@ -1,3 +1,3 @@
-# embrg
+# emlab
 
-#### This is a demo for the lab website.
+#### This is a repo for the lab website.
